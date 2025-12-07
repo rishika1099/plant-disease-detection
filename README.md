@@ -1,4 +1,3 @@
-# plant-disease-detection
 # 🌿 Plant Disease Detection using Transfer Learning (ResNet50)
 
 This project implements a plant disease classification model using transfer learning with ResNet50. The model is trained on the **New Plant Diseases Dataset (Augmented)** from Kaggle, containing thousands of labeled leaf images across multiple disease categories.
